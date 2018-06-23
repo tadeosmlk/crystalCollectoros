@@ -1,0 +1,106 @@
+
+		.btn-crystal1{
+			height: 70px; 
+			width: 50px; 
+			background-image: 	url('../../assets/img/crystal1_but.png'); 
+			background-repeat: no-repeat;
+			border-width: thin;	
+		}
+		.btn-crystal2{			
+			height: 70px; 
+			width: 50px; 
+			background-image: 	url('../../assets/img/crystal2_but.png'); 
+			background-repeat: no-repeat;
+			border-width: thin;
+				}
+		.btn-crystal3{
+			height: 70px; 
+			width: 50px; 
+			background-image: 	url('../../assets/img/crystal3_but.png'); 
+			background-repeat: no-repeat;
+			border-width: thin;
+		}
+		.btn-crystal4{
+			height: 70px; 
+			width: 50px; 
+			background-image: 	url('../../assets/img/crystal4_but.png'); 
+			background-repeat: no-repeat;
+			border-width: thin;
+		}
+		.btn-clear{
+			width: 80px;
+			height: 50px;
+			background-color: #B22222;
+			border-color: none;
+			border-width:  thin;
+			color: white;
+			text-align: center;
+			margin-left: 10px;
+			border-radius: 12px;
+
+		}
+		.container-main {
+			width: 75%;
+			height: 400px;
+			margin-top: 20px;
+			border-style: solid;
+			border-color: black;
+			border-width: thin;
+			text-align: center;
+			margin-left: auto;
+			margin-right: auto;
+			background-color: #8FBC8F;
+
+		}
+		.header-box {
+			background-color: #8FBC8F;
+			border-color: black;
+			margin-top: 10px;
+			width: 90%;
+			height: 50px;
+			/*margin-left: auto;
+			margin-right: auto;*/
+			margin: auto;
+		}
+		.box-rand {
+			margin: 10px;
+			padding-top: 10px;
+			background-color: #8FBC8F;
+			width: 58%;
+			height: 50px;
+			margin-left: auto;
+			margin-right: auto;
+			float: left;
+			font-size: 40px;
+		}
+		.box-winloss {
+			background-color: #8FBC8F;
+			width: 40%;
+			height: 50px;
+			margin-left: auto;
+			margin-right: auto;
+			float: right;
+			padding-left: 5px;
+			text-align: left;
+			margin-top: 10px;
+			margin-bottom: 10px;
+			padding-top: 10px;
+		}
+		.box-buttons {
+			margin-top: 10px;
+			margin-bottom: 10px;
+		}
+		.box-score {
+			background-color: #8FBC8F;
+			width: 100%;
+
+		}
+		.header-font
+		{
+			    margin: auto;
+			    color: #8FBC8F;
+			    font-size: 50px;
+			    font-weight: bold;
+			    vertical-align: middle;
+			    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 
+		}
